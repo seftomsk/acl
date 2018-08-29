@@ -1,4 +1,11 @@
 {
+    "name": "seftomsk/acl",
+    "authors": [
+        {
+            "name": "Alexey Verkhovtsev",
+            "email": "seftomsk@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Seftomsk\\Acl\\": "src/",
