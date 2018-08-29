@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Seftomsk\\Acl\\": "src/",
+            "Seftomsk\\App\\": "app/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
